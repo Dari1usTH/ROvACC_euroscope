@@ -2,11 +2,9 @@ Hi!
 Before installing this plugin, we would like to thank Agapi Darius and Adrian Szalok for their contributions.
 Installation Steps:
 
-    1)Place DiscordEuroscope.dll and DiscordEuroscope_RadioCallsigns.txt into a folder.
-
-    2)Create a directory and move both files into it.
+    1)Create a directory and move DiscordEuroscope.dll file into it.
     (Recommended path: LRBB\Plugins\YourFolderName)
 
-    3)Open EuroScope, go to OTHER SET > Plug-ins, and load the .dll file.
+    2)Open EuroScope, go to OTHER SET > Plug-ins, and load the .dll file.
 
 Enjoy !
