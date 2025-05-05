@@ -1,0 +1,38 @@
+LRBB_L_CTR Bucharest Radar (LOMOS)
+LRBB_A_CTR Bucharest Radar (ARGES)
+LRBB_B_CTR Bucharest Radar (BUDMO)
+LRBB_N_CTR Bucharest Radar (NAPOC)
+LRBB_H_CTR Bucharest Radar (HIGH)
+LRBB_I_CTR Bucharest Radar (FIS)
+LRBB_U_CTR Bucharest Radar (UPPER)
+LUUU_CTR Chisinau Control
+LRAR_APP Arad Approach
+LROP_APP Bucharest Approach
+LRCK_APP Constanta Approach
+LRCL_APP Napoc Approach
+LRCK_APP Constanta Approach
+LROP_F_APP Bucharest Director
+LROP_TWR Otopeni Tower
+LRBS_TWR Baneasa Tower
+LRAR_TWR Arad Tower
+LRTR_TWR Timisoara Tower
+LRCK_TWR Constanta Tower
+LRCL_TWR Cluj Tower
+LRSB_TWR Sibiu Tower
+LRTM_TWR Targu Mures Tower
+LUKK_TWR Chisinau Tower
+LUBM_TWR Marculesti Tower
+LRTC_TWR Tulcea Tower
+LRSV_TWR Suceava Tower
+LRBC_TWR Bacau Tower
+LRIA_TWR Iasi Tower
+LROD_TWR Oradea Tower
+LRBM_TWR Baia Mare Tower
+LRSM_TWR Satu Mare Tower
+LRCV_TWR Craiova Tower
+LRBV_TWR Brasov Tower 
+LROP_GND Otopeni Ground
+LRBS_GND Baneasa Ground
+LRTR_GND Timisoara Ground
+LUKK_GND Chisinau Ground
+LROP_DEL Otopeni Delivery
